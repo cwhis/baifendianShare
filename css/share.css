@@ -1,0 +1,24 @@
+﻿*{padding:0;margin:0;border:none;background:none;}
+body {color: #686868;font: 12px/20px "宋体";}
+a{color:#000;text-decoration:none;font-size:12px;font-family:"宋体";}
+div{display:block;color: #686868;font: 12px/20px "宋体";}
+.shareModel{position: relative;width: 948px;margin: 50px auto;border: 1px solid #e4e5e5;background: url(../images/pubClass2012_yan_rpX2.png) 0 -360px repeat-x scroll transparent;}
+.shareBackground{height: 39px;width: 25px;position: absolute;top: 0;left: 0;background: url(../images/pubClass2012_yan_icons.png) -200px -80px no-repeat;}
+.share{height: 40px;position:relative;line-height: 40px;text-align:center;}
+.share a {display: inline-block;padding: 0 12px;color: #000;}
+.share a img {background: url(../images/pubClass2012_yan_flag.png) 0px -89px no-repeat;height: 20px;width: 20px;display: block;float: left;margin-top: 10px;}
+.share a img.Qzone {background: url(../images/share_png24_d16f2ee1.png) 0px 1px no-repeat;}
+.share a img.weixin {position:relative;background: url(../images/share_png24_d16f2ee1.png) -42px 1px no-repeat;}
+.share a .sina {background-position: 0 0;}
+.share a .ren {background-position: 0 -30px;}
+.share a .kai {background-position: 0 -59px;}
+.share a .wang {background-position: 0 -120px;}
+.share a .qq {background-position: 0 -180px;}
+.share a .sohu {background-position: 0 -150px;}
+.weixin_modal{display:none;background-clip: padding-box;background-color: #FFFFFF;border: 1px solid rgba(0, 0, 0, 0.3);  border-radius: 6px 6px 6px 6px;  box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3); left: 45%; margin: -10px 0 0 -10px;overflow: hidden; position: fixed; top: 50%; width:200px;height:200px; overflow:hidden;}
+.none{display:inline-block;}
+.modal_header{height: 25px;border-bottom: 1px solid #EEEEEE; padding:0;font-size:10px;}
+.modal_header h3{ float:left;line-height: 20px; margin: 0; padding:3px 15px;font-weight:normal; font-family:" 微软雅黑";}
+.modal_header a{text-decoration:none;  margin-top: 2px; color: #000000; float: right;  font-size: 16px;  font-weight: bold; cursor:pointer;line-height: 20px; opacity: 0.2; text-shadow: 0 1px 0 #FFFFFF;}
+.modal_body{text-align:center;}
+.modal_body p{display: inline-block;}
